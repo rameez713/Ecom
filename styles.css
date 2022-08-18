@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.background-image {
+    background-image: url('/Users/rameezrahman/Desktop/dev/Ecom_project/Images/581ecc7b0f9a365ef120ad01f8ff35a6.jpg');
+    background-size: cover;
+    background-repeat: no-repeat!important;
+    height: 100vh;
+    opacity: .25;
+
+}
